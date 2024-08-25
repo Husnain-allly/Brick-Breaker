@@ -33,5 +33,9 @@ DOSBox: Recommended for running the game on modern operating systems.
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
 
-License
-This project is open-source and available under the MIT License.
+
+
+
+https://github.com/user-attachments/assets/2f5a0c24-098c-4fd0-8ea7-512926141b26
+
+
